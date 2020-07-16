@@ -1,0 +1,34 @@
+body {
+  font-family: Courier New;
+  background-color:lavenderblush;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+  
+#header {
+  text-align: center; 
+}
+
+li {
+  margin: 10px;
+  text-align: center;
+  padding: 10px;
+}
+
+a:hover{
+  color:lightcoral;
+}
+.bigtext {
+  font-size: 25px;
+}
+
+#please do click{
+  color: lightcoral;
+}
+
+h1{
+  text-align: center;
+}
